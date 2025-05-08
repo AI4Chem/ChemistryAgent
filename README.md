@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://AI4Chem.github.io/ChemistryAgent/"><img src="https://github.com/AI4Chem/ChemistryAgent/blob/master/asset/logo.png?raw=true" alt="FastMindAPI"></a>
-</p>
+<img src="asset/logo.png" alt="logo" style="zoom:50%;" />
 
 # ChemistryAgent
 
