@@ -1,0 +1,4 @@
+rdkit
+molbloom
+pandas
+requests

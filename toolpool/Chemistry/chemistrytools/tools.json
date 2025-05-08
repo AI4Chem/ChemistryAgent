@@ -1,0 +1,41 @@
+{
+    "get_element_information": {
+        "path": "tools/calculate_element_information.py"
+    },
+    "calculate_compound_molar_mass": {
+        "path": "tools/calculate_formulae_molar_mass.py"
+    },
+    "compound_string_to_html": {
+        "path": "tools/calculate_html.py"
+    },
+    "compound_string_to_latex": {
+        "path": "tools/calculate_latex.py"
+    },
+    "compound_string_to_unicode": {
+        "path": "tools/calculate_unicode.py"
+    },
+    "get_compound_CID": {
+        "path": "tools/calculate_CID.py"
+    },
+    "convert_compound_CID_to_Molecular_Formula": {
+        "path": "tools/calculate_MolecularFormula.py"
+    },
+    "convert_compound_CID_to_SMILES": {
+        "path": "tools/calculate_CanonicalSMILES.py"
+    },
+    "get_compound_charge_by_CID": {
+        "path": "tools/calculate_charge.py"
+    },
+    "get_compound_MolecularWeight_by_CID": {
+        "path": "tools/calculate_MolecularWeight.py"
+    },
+    "convert_compound_CID_to_IUPAC": {
+        "path": "tools/calculate_iupac_name.py"
+    },
+    "get_constants": {
+        "path": "tools/calculate_constants.py"
+    },
+    "calculate_spectrum_similarity": {
+        "path": "tools/calculate_spectrum_similarity.py"
+    }
+}

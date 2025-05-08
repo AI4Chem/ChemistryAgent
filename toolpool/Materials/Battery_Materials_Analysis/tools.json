@@ -1,0 +1,8 @@
+{
+    "screen_electrode_materials":{
+        "path":"functions.py"
+    },
+    "analyze_ion_diffusion_pathways":{
+        "path":"functions.py"
+    }
+}

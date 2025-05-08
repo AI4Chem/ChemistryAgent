@@ -1,0 +1,11 @@
+{
+    "generate_features":{
+        "path":"functions.py"
+    },
+    "train_model":{
+        "path":"functions.py"
+    },
+    "predict_with_model":{
+        "path":"functions.py"
+    }
+}

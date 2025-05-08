@@ -1,0 +1,11 @@
+{
+    "get_all_entries":{
+        "path":"functions.py"
+    },
+    "balance_reaction": {
+        "path": "functions.py"
+    },
+    "analyze_battery": {
+        "path": "functions.py"
+    }
+}

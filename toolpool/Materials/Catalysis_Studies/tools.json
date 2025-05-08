@@ -1,0 +1,8 @@
+{
+    "model_catalyst_surface":{
+        "path":"functions.py"
+    },
+    "calculate_adsorption_energy":{
+        "path":"functions.py"
+    }
+}

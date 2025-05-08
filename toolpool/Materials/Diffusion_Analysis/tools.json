@@ -1,0 +1,17 @@
+{
+    "create_neb_analysis":{
+        "path":"functions.py"
+    },
+    "get_decomposition":{
+        "path":"functions.py"
+    },
+    "get_e_above_hull":{
+        "path":"functions.py"
+    },
+    "create_migration_graph":{
+        "path":"functions.py"
+    },
+    "get_migration_paths":{
+        "path":"functions.py"
+    }
+}

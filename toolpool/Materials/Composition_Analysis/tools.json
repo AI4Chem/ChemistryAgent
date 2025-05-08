@@ -1,0 +1,11 @@
+{
+    "analyze_elemental_composition":{
+        "path":"functions.py"
+    },
+    "guess_oxidation_states":{
+        "path":"functions.py"
+    },
+    "mix_elements":{
+        "path":"functions.py"
+    }
+}

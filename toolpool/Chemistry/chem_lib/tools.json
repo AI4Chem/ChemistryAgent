@@ -1,0 +1,74 @@
+{
+    "get_element_properties": {
+        "path": "core.py"
+    },
+    "calculate_element_frequencies_in_compound": {
+        "path": "compound.py"
+    },
+    "calculate_compound_molar_mass": {
+        "path": "compound.py"
+    },
+    "calculate_compound_percentage_composition_by_mass": {
+        "path": "compound.py"
+    },
+    "convert_compound_stoichiometry_amount": {
+        "path": "compound.py"
+    },
+    "get_empirical_formula_by_percent_composition": {
+        "path": "empirical_formulae.py"
+    },
+    "analyze_combustion": {
+        "path": "empirical_formulae.py"
+    },
+    "judge_the_balance_of_reaction": {
+        "path": "reaction.py"
+    },
+    "reactant_formulas_of_reaction": {
+        "path": "reaction.py"
+    },
+    "product_formulas_of_reaction": {
+        "path": "reaction.py"
+    },
+    "combustion_reactions": {
+        "path": "reaction.py"
+    },
+    "balance_the_reaction": {
+        "path": "reaction.py"
+    },
+    "reaction_stoichiometry_amounts": {
+        "path": "reaction.py"
+    },
+    "limiting_reagent_of_reaction": {
+        "path": "reaction.py"
+    },
+    "acidity_calculation": {
+        "path": "aqueous_solution.py"
+    },
+    "make_solution_by_grams_per_liter": {
+        "path": "aqueous_solution.py"
+    },
+    "galvanic_cell_properties": {
+        "path": "electro.py"
+    },
+    "galvanic_cell_potential": {
+        "path": "electro.py"
+    },
+    "perform_electrolysis": {
+        "path": "electro.py"
+    },
+    "electromagnetic_wave_by_wavelength": {
+        "path": "quantum.py"
+    },
+    "electromagnetic_wave_by_frequency": {
+        "path": "quantum.py"
+    },
+    "electromagnetic_wave_by_energy": {
+        "path": "quantum.py"
+    },
+    "electromagnetic_wave_by_rydberg_equation": {
+        "path": "quantum.py"
+    },
+    "energy_of_hydrogen_orbital": {
+        "path": "quantum.py"
+    }
+}

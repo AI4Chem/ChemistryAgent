@@ -1,0 +1,11 @@
+{
+    "get_phase_diagram_properties":{
+        "path":"functions.py"
+    },
+    "analyze_diffusion":{
+        "path":"functions.py"
+    },
+    "calculate_magnetic_properties":{
+        "path":"functions.py"
+    }
+}

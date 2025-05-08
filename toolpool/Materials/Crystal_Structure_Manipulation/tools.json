@@ -1,0 +1,17 @@
+{
+    "create_structure":{
+        "path":"functions.py"
+    },
+    "analyze_symmetry":{
+        "path":"functions.py"
+    },
+    "modify_site_occupancy":{
+        "path":"functions.py"
+    },
+    "create_vacancy":{
+        "path":"functions.py"
+    },
+    "create_interstitial":{
+        "path":"functions.py"
+    }
+}

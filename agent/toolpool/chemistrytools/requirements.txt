@@ -1,0 +1,6 @@
+cawdrey
+mathematical
+pyparsing
+tabulate
+numpy
+chemistry_tools

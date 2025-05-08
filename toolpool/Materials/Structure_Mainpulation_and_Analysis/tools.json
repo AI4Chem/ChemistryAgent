@@ -1,0 +1,17 @@
+{ 
+    "create_structure_from_file":{
+      "path": "functions.py"
+    },
+    "create_structure_from_spacegroup":{
+      "path": "functions.py"
+    },
+    "remove_sites":{
+      "path": "functions.py"
+    },
+    "get_symmetry_dataset":{
+      "path": "functions.py"
+    },
+    "get_primitive_structure":{
+      "path": "functions.py"
+    }
+}

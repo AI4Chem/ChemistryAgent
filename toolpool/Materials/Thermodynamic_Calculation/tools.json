@@ -1,0 +1,14 @@
+{
+    "calculate_reaction_energy": {
+        "path": "functions.py"
+    },
+    "get_most_stable_entry":{
+        "path":"functions.py"
+    },
+    "analyze_phase_stability": {
+        "path": "functions.py"
+    },
+    "create_pourbaix_diagram": {
+        "path": "functions.py"
+    }
+}

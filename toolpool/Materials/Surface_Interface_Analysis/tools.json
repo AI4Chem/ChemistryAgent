@@ -1,0 +1,11 @@
+{
+    "generate_surface": {
+        "path": "functions.py"
+    },
+    "model_interfacial_reactions": {
+        "path": "functions.py"
+    },
+    "perform_adsorption_study":{
+        "path": "functions.py"
+    }
+}

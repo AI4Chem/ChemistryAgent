@@ -1,0 +1,11 @@
+{
+    "create_phase_diagram":{
+        "path":"functions.py"
+    },
+    "get_decomposition":{
+        "path":"functions.py"
+    },
+    "get_e_above_hull":{
+        "path":"functions.py"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "CalculateSA": {
+        "path": "tools/calculate_sa.py"
+    },
+    "BrenkFilter": {
+        "path": "tools/brenk_filter.py"
+    },
+    "CalculateBBBPermeant": {
+        "path": "tools/calculate_bbb_permeant.py"
+    },
+    "CalculateDruglikeness": {
+        "path": "tools/calculate_druglikeness.py"
+    },
+    "CalculateGIAbsorption": {
+        "path": "tools/calculate_gi_absorption.py"
+    },
+    "CalculateLogP": {
+        "path": "tools/calculate_logp.py"
+    },
+    "CalculateMolWt": {
+        "path": "tools/calculate_molwt.py"
+    },
+    "CalculateQED": {
+        "path": "tools/calculate_qed.py"
+    },
+    "CalculateTPSA": {
+        "path": "tools/calculate_tpsa.py"
+    },
+    "PainsFilter": {
+        "path": "tools/pains_filter.py"
+    }
+}

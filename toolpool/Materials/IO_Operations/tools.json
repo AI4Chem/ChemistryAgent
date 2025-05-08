@@ -1,0 +1,11 @@
+{
+    "handle_cif": {
+        "path": "functions.py"
+    },
+    "handle_vasp": {
+        "path": "functions.py"
+    },
+    "get_structure_by_material_id": {
+        "path": "functions.py"
+    }
+}

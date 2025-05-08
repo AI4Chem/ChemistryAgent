@@ -1,0 +1,5 @@
+fastmindapi
+pickle
+typing
+pymatgen.core.structure
+pymatgen.symmetry.analyzer

@@ -1,0 +1,7 @@
+fastmindapi
+pickle
+typing
+pymatgen.core
+pymatgen.symmetry.analyzer
+pymatgen.analysis.structure_matcher
+pymatgen.io.vasp.sets

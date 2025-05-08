@@ -1,0 +1,14 @@
+{
+    "create_element":{
+        "path":"functions.py"
+    },
+    "get_atomic_mass":{
+        "path":"functions.py"
+    },
+    "get_atomic_radius":{
+        "path":"functions.py"
+    },
+    "get_electron_affinity":{
+        "path":"functions.py"
+    }
+}

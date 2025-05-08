@@ -1,0 +1,26 @@
+{
+    "PatentCheck": {
+        "path": "tools/search.py"
+    },
+    "MolSimilarity": {
+        "path": "tools/rdkit.py"
+    },
+    "SMILES2Weight": {
+        "path": "tools/rdkit.py"
+    },
+    "FuncGroups": {
+        "path": "tools/rdkit.py"
+    },
+    "ExplosiveCheck": {
+        "path": "tools/safety.py"
+    },
+    "SimilarControlChemCheck": {
+        "path": "tools/safety.py"
+    },
+    "ControlChemCheck": {
+        "path": "tools/safety.py"
+    },
+    "Query2CAS": {
+        "path": "tools/converters.py"
+    }
+}

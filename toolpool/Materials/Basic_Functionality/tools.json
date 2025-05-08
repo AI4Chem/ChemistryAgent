@@ -1,0 +1,45 @@
+{   
+    "get_atomic_mass": {
+      "path": "BasicElement_Specie_Composition_objects/functions.py"
+    },
+    "get_melting_point": {
+      "path": "BasicElement_Specie_Composition_objects/functions.py"
+    },
+    "get_ionic_radii": {
+      "path": "BasicElement_Specie_Composition_objects/functions.py"
+    },
+    "get_atomic_mass_in_unit":{
+      "path": "BasicElement_Specie_Composition_objects/functions.py"
+    },
+    "get_species_properties": {
+      "path": "BasicElement_Specie_Composition_objects/functions.py"
+    },
+    "get_composition_properties": {
+      "path": "BasicElement_Specie_Composition_objects/functions.py"
+    },
+    "create_cubic_lattice":{
+      "path": "Lattice_Structure_objects/functions.py"
+    },
+    "create_structure":{
+      "path": "Lattice_Structure_objects/functions.py"
+    },
+    "create_immutable_structure":{
+      "path": "Lattice_Structure_objects/functions.py"
+    },
+    "analyze_symmetry":{
+      "path": "Basic_Analysis/functions.py"
+    },
+    "match_structures":{
+      "path": "Basic_Analysis/functions.py"
+    },
+    "write_structure_to_file":{
+      "path": "Input_output/functions.py"
+    },
+    "read_structure_from_file":{
+      "path": "Input_output/functions.py"
+    },
+    "create_vasp_input_files":{
+      "path": "Input_output/functions.py"
+    }
+  }
+  

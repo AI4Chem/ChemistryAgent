@@ -1,0 +1,11 @@
+{
+    "analyze_band_structure":{
+        "path":"functions.py"
+    },
+    "calculate_density_of_states":{
+        "path":"functions.py"
+    },
+    "plot_fermi_surface":{
+        "path":"functions.py"
+    }
+}

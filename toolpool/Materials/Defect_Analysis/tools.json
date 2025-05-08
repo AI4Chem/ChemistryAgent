@@ -1,0 +1,26 @@
+{
+    "create_defect":{
+        "path":"functions.py"
+    },
+    "load_defect_from_pickle":{
+        "path":"functions.py"
+    },
+    "get_defect_type":{
+        "path":"functions.py"
+    },
+    "get_defect_site":{
+        "path":"functions.py"
+    },
+    "get_defect_charge":{
+        "path":"functions.py"
+    },
+    "create_defect_entry":{
+        "path":"functions.py"
+    },
+    "load_defect_entry_from_pickle":{
+        "path":"functions.py"
+    },
+    "get_defect_energy":{
+        "path":"functions.py"
+    }
+}

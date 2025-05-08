@@ -1,0 +1,14 @@
+{
+    "create_composition":{
+        "path":"functions.py"
+    },
+    "get_atomic_fraction":{
+        "path":"functions.py"
+    },
+    "get_weight_fraction":{
+        "path":"functions.py"
+    },
+    "get_reduced_composition":{
+        "path":"functions.py"
+    }
+}
