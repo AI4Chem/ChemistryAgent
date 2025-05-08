@@ -1,4 +1,4 @@
-<img src="asset/logo.png" alt="logo" style="zoom:50%;" />
+<img src="asset/logo.png" alt="logo" style="zoom:20%;" />
 
 # ChemistryAgent
 
