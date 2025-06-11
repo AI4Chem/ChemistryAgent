@@ -14,6 +14,8 @@ Chemistry & Materials Expertise Tools
 
 ./dataset/
 
+Also in https://huggingface.co/datasets/RadiCat/ChemAgent
+
 ## Agent
 
 ./agent/
